@@ -35,6 +35,6 @@ Addressed any discrepancies by revisiting data extraction and transformation pro
 Derived actionable insights from the annual sales report.
 Presented recommendations for optimizing sales, based on identified trends and patterns.
 
-###Database Management with SQL:
+### Database Management with SQL:
 Conducted queries to retrieve and organize data required for the annual sales report.
 Ensured data accuracy and integrity during extraction to guarantee reliable insights.
