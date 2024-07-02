@@ -30,11 +30,3 @@ Identified best-selling items, peak sales periods, and areas for potential impro
 ### Data Validation and Reconciliation:
 Cross-validated Power BI results with the original SQL database to ensure data accuracy and consistency.
 Addressed any discrepancies by revisiting data extraction and transformation processes.
-
-### Insights and Recommendations:
-Derived actionable insights from the annual sales report.
-Presented recommendations for optimizing sales, based on identified trends and patterns.
-
-### Database Management with SQL:
-Conducted queries to retrieve and organize data required for the annual sales report.
-Ensured data accuracy and integrity during extraction to guarantee reliable insights.
