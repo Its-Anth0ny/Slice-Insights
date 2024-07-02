@@ -1,7 +1,7 @@
 # Slice-Insights
 Sales Data Analysis using Power BI
 
-Files : https://drive.google.com/drive/folders/1_b0jNoNDhiRkCmbd4rmjWO6A31G0f2qt?usp=drive_link
+Files : https://drive.google.com/drive/folders/1fbrv4nN7IXAxDGNYgD6s7VqKnEqzNV5_?usp=sharing
 
 ### Power BI Dashboard Creation:
 Designed a comprehensive Power BI dashboard to visualize annual Pizza sales.
